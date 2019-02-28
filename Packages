@@ -10,8 +10,7 @@ Section: Application
 Filename: ./Debs/QAutoTest.deb
 Size: 37688
 MD5sum: 034e6cd1f408fef187e49e1a46f57b1b
-Depends: mobilesubstrate
-Conflicts: com.yourepo.dviet92.xcon
+Depends: jetslammed
 
 
 Package: com.yourepo.first.qauto
@@ -26,5 +25,4 @@ Section: System
 Filename: ./Debs/qauto.deb
 Size: 16256
 MD5sum: 90e755f77f73a5450d59e7a0a80bef57
-Depends: mobilesubstrate
-Conflicts: com.yourepo.dviet92.xcon
+Depends: jetslammed
