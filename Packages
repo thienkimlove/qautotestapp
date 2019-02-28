@@ -15,7 +15,7 @@ Depends: jetslammed
 
 Package: com.yourepo.manhquan79.quanauto
 Name: quanauto
-Version: 1.0.8
+Version: 1.0.9
 Architecture: iphoneos-arm
 Description: quanauto for IOS Model 9.2.1 - 10.2.1
 Maintainer: Quan Do <thienkimlove@gmail.com>
