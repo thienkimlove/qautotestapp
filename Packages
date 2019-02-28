@@ -8,7 +8,5 @@ Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Application
 Filename: ./Debs/QAutoTest.deb
-Size: 243048
-MD5sum: d3c643409dce3e7b383e12fd3704f514
 Depends: mobilesubstrate
 Conflicts: com.yourepo.dviet92.xcon
