@@ -14,7 +14,7 @@ Depends: mobilesubstrate
 Conflicts: com.yourepo.dviet92.xcon
 
 
-Package: com.first.QTool
+Package: com.yourepo.first.QTool
 Name: QTool
 Version: 3.0.0
 Architecture: iphoneos-arm
@@ -24,7 +24,7 @@ Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: System
 Filename: ./Debs/QTool.deb
-Size: 16232
-MD5sum: 04a10af09f12e6e5fd44552522abc628
+Size: 16236
+MD5sum: 23abcb79257be04767bbf4bc79cd5c5a
 Depends: mobilesubstrate
 Conflicts: com.yourepo.dviet92.xcon
