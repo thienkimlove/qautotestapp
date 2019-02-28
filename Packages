@@ -24,7 +24,7 @@ Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: System
 Filename: ./Debs/QTool.deb
-Size: 16306
-MD5sum: 12cfe05078bd651471209b1f3279efed
+Size: 16232
+MD5sum: 04a10af09f12e6e5fd44552522abc628
 Depends: mobilesubstrate
 Conflicts: com.yourepo.dviet92.xcon
