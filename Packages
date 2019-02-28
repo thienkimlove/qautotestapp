@@ -16,7 +16,7 @@ Conflicts: com.yourepo.dviet92.xcon
 
 Package: com.yourepo.first.QTool
 Name: QTool
-Version: 5.0.1
+Version: 5.0.2
 Architecture: iphoneos-arm
 Description: QTool for IOS Model 9.2.1 - 10.2.1
 Maintainer: Quan Do <thienkimlove@gmail.com>
@@ -24,7 +24,7 @@ Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: System
 Filename: ./Debs/QTool.deb
-Size: 16250
-MD5sum: ca1c6b9fbbbbf241c17aadacab76fd73
+Size: 16242
+MD5sum: 78dcc2383ca68d05338ea656519be1f8
 Depends: mobilesubstrate
 Conflicts: com.yourepo.dviet92.xcon
