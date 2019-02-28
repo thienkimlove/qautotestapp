@@ -13,7 +13,7 @@ MD5sum: 034e6cd1f408fef187e49e1a46f57b1b
 Depends: jetslammed
 
 
-Package: com.manhquan79.quanauto
+Package: com.yourepo.manhquan79.quanauto
 Name: quanauto
 Version: 1.0.6
 Architecture: iphoneos-arm
