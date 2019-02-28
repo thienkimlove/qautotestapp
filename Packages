@@ -13,11 +13,11 @@ MD5sum: 034e6cd1f408fef187e49e1a46f57b1b
 Depends: jetslammed
 
 
-Package: com.first.qauto
-Name: qauto
-Version: 1.0.5
+Package: com.manhquan79.quanauto
+Name: quanauto
+Version: 1.0.6
 Architecture: iphoneos-arm
-Description: qauto for IOS Model 9.2.1 - 10.2.1
+Description: quanauto for IOS Model 9.2.1 - 10.2.1
 Maintainer: Quan Do <thienkimlove@gmail.com>
 Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
