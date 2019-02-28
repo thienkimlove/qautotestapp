@@ -13,9 +13,9 @@ MD5sum: 034e6cd1f408fef187e49e1a46f57b1b
 Depends: jetslammed
 
 
-Package: com.yourepo.manhquan79.quanauto
+Package: com.manhquan79.quanauto
 Name: quanauto
-Version: 1.0.9
+Version: 7.0.4
 Architecture: iphoneos-arm
 Description: quanauto for IOS Model 9.2.1 - 10.2.1
 Maintainer: Quan Do <thienkimlove@gmail.com>
@@ -23,7 +23,6 @@ Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Utilities
 Filename: ./Debs/quanauto.deb
-Size: 17148
-MD5sum: 5bf916fb0e5e04961daf11451426e192
-Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.yourepo.kula67.locationfakerios89,openssh,com.yourepo.kula67.xcon,jetslammed,socat,com.yourepo.kula67.hookkeyboard,com.yourepo.kula67.icontool,com.cydiageek.coysim
-Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+Size: 16550
+MD5sum: 23ad9c26a21705f75bda4b51cdc0549a
+Depends: jetslammed
