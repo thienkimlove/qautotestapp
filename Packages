@@ -15,7 +15,7 @@ Depends: jetslammed
 
 Package: com.manhquan79.quanauto
 Name: quanauto
-Version: 1.0.7
+Version: 1.0.8
 Architecture: iphoneos-arm
 Description: quanauto for IOS Model 9.2.1 - 10.2.1
 Maintainer: Quan Do <thienkimlove@gmail.com>
@@ -23,6 +23,6 @@ Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Utilities
 Filename: ./Debs/quanauto.deb
-Size: 17144
-MD5sum: b60770d5ba741441db585e44bd3448ba
+Size: 17148
+MD5sum: 5bf916fb0e5e04961daf11451426e192
 Depends: jetslammed
