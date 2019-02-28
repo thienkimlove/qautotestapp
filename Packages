@@ -15,7 +15,7 @@ Depends: jetslammed
 
 Package: com.yourepo.first.qauto
 Name: qauto
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Description: qauto for IOS Model 9.2.1 - 10.2.1
 Maintainer: Quan Do <thienkimlove@gmail.com>
