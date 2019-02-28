@@ -21,7 +21,7 @@ Description: quanauto for IOS Model 9.2.1 - 10.2.1
 Maintainer: Quan Do <thienkimlove@gmail.com>
 Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
-Section: System
+Section: Utilities
 Filename: ./Debs/quanauto.deb
 Size: 17144
 MD5sum: b60770d5ba741441db585e44bd3448ba
