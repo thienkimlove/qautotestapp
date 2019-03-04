@@ -8,8 +8,8 @@ Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Application
 Filename: ./Debs/autotest.deb
-Size: 38882
-MD5sum: 0fa720a860fd9451a889f939d0900179
+Size: 38886
+MD5sum: 8be36e1173bc98f016a67636ee76b2fb
 Depends: jetslammed
 
 
