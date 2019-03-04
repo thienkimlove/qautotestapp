@@ -1,15 +1,15 @@
-Package: com.first.QAutoTest
-Name: QAutoTest
-Version: 2.0.0
+Package: com.first.autotest
+Name: autotest
+Version: 3.0.0
 Architecture: iphoneos-arm
-Description: QAutoTest for IOS Model 9.2.1 - 10.2.1
+Description: autotest for IOS Model 9.2.1 - 10.2.1
 Maintainer: Quan Do <thienkimlove@gmail.com>
 Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Application
-Filename: ./Debs/QAutoTest.deb
-Size: 37688
-MD5sum: 034e6cd1f408fef187e49e1a46f57b1b
+Filename: ./Debs/autotest.deb
+Size: 38882
+MD5sum: 0fa720a860fd9451a889f939d0900179
 Depends: jetslammed
 
 
