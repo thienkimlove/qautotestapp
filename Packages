@@ -1,6 +1,6 @@
 Package: com.first.autotest
 Name: autotest
-Version: 3.0.4
+Version: 3.0.5
 Architecture: iphoneos-arm
 Description: autotest for IOS Model 9.2.1 - 10.2.1
 Maintainer: Quan Do <thienkimlove@gmail.com>
@@ -8,8 +8,8 @@ Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Application
 Filename: ./Debs/autotest.deb
-Size: 39056
-MD5sum: 18c44299a850561967cb003b4d27697e
+Size: 39054
+MD5sum: a30682f73df2f0343a325188c59e1176
 Depends: jetslammed
 
 
