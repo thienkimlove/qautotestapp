@@ -1,6 +1,6 @@
 Package: com.first.autotest
 Name: autotest
-Version: 3.0.0
+Version: 3.0.1
 Architecture: iphoneos-arm
 Description: autotest for IOS Model 9.2.1 - 10.2.1
 Maintainer: Quan Do <thienkimlove@gmail.com>
