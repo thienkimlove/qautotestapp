@@ -23,8 +23,8 @@ Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Application
 Filename: ./Debs/vkview.deb
-Size: 43428
-MD5sum: fbab60d0dee548b8a268ec9a2e87940c
+Size: 43416
+MD5sum: 873b3c4b8e25e78c700ed8bfb2e480c8
 Depends: jetslammed
 
 
