@@ -15,7 +15,7 @@ Depends: jetslammed
 
 Package: com.first.vkview
 Name: vkview
-Version: 1.0.7
+Version: 1.0.8
 Architecture: iphoneos-arm
 Description: vkview for IOS Model 9.2.1 - 10.2.1
 Maintainer: Quan Do <thienkimlove@gmail.com>
