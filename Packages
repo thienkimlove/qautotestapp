@@ -15,7 +15,7 @@ Depends: jetslammed
 
 Package: com.first.vkview
 Name: vkview
-Version: 1.2.0
+Version: 1.3.0
 Architecture: iphoneos-arm
 Description: vkview for IOS Model 9.2.1 - 10.2.1
 Maintainer: Quan Do <thienkimlove@gmail.com>
@@ -23,8 +23,8 @@ Author: Quan Do <thienkimlove@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Application
 Filename: ./Debs/vkview.deb
-Size: 47186
-MD5sum: d7eb116ff615cc5a664f8d114ed66c17
+Size: 47634
+MD5sum: ca62d176bffdfef64bb6dab98d853935
 Depends: jetslammed
 
 
